@@ -1,2 +1,3 @@
-# typechain-contract-stub
-Makes typechain contract stubs for unit testing
+# UI Core
+
+Shared utilities for Element frontend projects.
